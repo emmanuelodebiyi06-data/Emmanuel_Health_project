@@ -18,5 +18,5 @@ This project is an end-to-end **Power BI** solution developed to analyze a massi
     * **KPI Cards**: For instant visibility into high-level global metrics.
 
 ## Visuals
-##  Unified Green Dashboards
-![Portfolio Summary](Screenshot_2025-11-20_134022.png)
+##  Unified Dashboards
+![Portfolio Summary](Screenshot2025-11-20134022.png)
