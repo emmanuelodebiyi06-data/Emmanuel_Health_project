@@ -1,4 +1,4 @@
-# Global Health & Mortality Analytics Dashboard (1900–2020)
+# Global Health & Mortality Analytics Dashboard (1900–2020) with PowerBI
 
 ## Project Overview
 This project is an end-to-end **Power BI** solution developed to analyze a massive global health dataset spanning over a century. The dashboard provides a "gangan" (major) deep-dive into how population shifts, medical doctor availability, and healthcare expenditure correlate with mortality rates across 7 continents.
