@@ -19,4 +19,4 @@ This project is an end-to-end **Power BI** solution developed to analyze a massi
 
 ## Visuals
 ##  Unified Green Dashboards
-![Portfolio Summary](Loan_Analysis_Dashboard.png)
+![Portfolio Summary](Screenshot_2025-11-20_134022.png)
