@@ -18,7 +18,7 @@ This project is an end-to-end **Power BI** solution developed to analyze a massi
     * **KPI Cards**: For instant visibility into high-level global metrics.
 
 ## Visuals
-##  Unified Dashboards
+##  REPORTS
 ![Dashboard](Health_record_dashboard.png)
 ![REPORT](Health_report_1.png)
 ![REPORT](health_report_2.png)
